@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/loadmore_endrecycleview"
+            android:icon="@drawable/ic_menu_right"
+            android:title="EndlessRecycleview" />
+        <item
+            android:id="@+id/loadmore_recycleview_a"
+            android:icon="@drawable/ic_menu_right"
+            android:title="RecycleView" />
+        <item
+            android:id="@+id/loadmore_recycleview_b"
+            android:icon="@drawable/ic_menu_right"
+            android:title="RecycleView" />
+        <item
+            android:id="@+id/loadmore_recycleview_retrofit"
+            android:icon="@drawable/ic_menu_right"
+            android:title="Retrofit" />
+        <item
+            android:id="@+id/loadmore_recycleview_volley"
+            android:icon="@drawable/ic_menu_right"
+            android:title="Volley" />
+    </group>
+
+</menu>
